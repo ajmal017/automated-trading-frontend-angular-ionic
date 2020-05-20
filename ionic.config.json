@@ -1,0 +1,7 @@
+{
+  "name": "automated-trading-frontend-angular-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
